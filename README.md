@@ -218,9 +218,9 @@ create-cyber-hr/
 
 本项目沿用了这些 skill 的灵感与结构脉络：
 
-- colleague skill
-- ex-partner skill
-- yourself skill
+- **[同事.skill](https://github.com/titanwings/colleague-skill)**（by titanwings）— 首创“把人蒸馏成 AI Skill”的双层架构
+- **[前任.skill](https://github.com/therealXiaomanChu/ex-partner-skill)**（by therealXiaomanChu）— 将双层架构迁移到亲密关系场景
+- **[自己.skill](https://github.com/notdog1998/yourself-skill)**（by notdog1998）— 将视角转向“自我蒸馏”，完善了自我记忆与人格模板
 
 并感谢以下工具与模型在改造过程中的帮助：
 
