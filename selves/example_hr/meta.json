@@ -1,0 +1,16 @@
+{
+  "name": "周老师（示例）",
+  "slug": "example_hr",
+  "created_at": "2026-04-03T00:00:00Z",
+  "updated_at": "2026-04-03T00:00:00Z",
+  "version": "v1",
+  "profile": {
+    "role": "招聘经理",
+    "industry": "互联网",
+    "org_type": "快速增长型公司",
+    "years": "9年"
+  },
+  "style_tags": ["重能力", "重稳定性", "追问深", "结论谨慎"],
+  "sources": [],
+  "corrections_count": 0
+}
