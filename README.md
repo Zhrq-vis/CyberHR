@@ -232,6 +232,3 @@ create-cyber-hr/
 
 ---
 
-## 一句话总结
-
-**赛博HR.skill = 把 HR 的经验、口径与判断蒸馏成可运行的数字分身，并进一步扩展成可协作的 HR Agent Team。**
